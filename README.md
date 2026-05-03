@@ -21,9 +21,7 @@ funfact: i can't properly speak english, soo most of the markdown you've seen is
 [![MATEC](https://img.shields.io/badge/MATEC-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/leverec/MATEC)
 [![Portals](https://img.shields.io/badge/Portals-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/leverec/Portals)
 [![Lustro](https://img.shields.io/badge/Lustro-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/leverec/lustro)
-
-## Pinned Gists
-[![Gists 1](https://img.shields.io/badge/gists%201-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://gist.github.com/leverec/4f2859bcc5fbad7cedd0265272cc4a4c)
+[![Sigil](https://img.shields.io/badge/</>%20Sigil-428d63?style=for-the-badge)](https://github.com/leverec/sigil)
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leverec&layout=compact&theme=tokyonight" alt="Langs" />
